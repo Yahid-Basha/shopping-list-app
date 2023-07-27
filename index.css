@@ -8,6 +8,7 @@ body{
 }
 
 .container{
+    margin: 0 auto;
     max-width: 400px;
     margin-top: 30px;
     display: flex;
